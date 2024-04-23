@@ -66,7 +66,7 @@ Possible TP Options;
 ### CP - Community Pacifist
 A Community Pacifist is something the game community sets as the rules for it to be a Pacifist run. These rules will vary game to game as people love a good challenge run. The rules will not be explained in this section of the website, rather it will be posted with the game that has a Community Pacifist run associated with it. Ideally though, it should somehow relate to being pacifist in some form or another. 
 
-For example, Pokémon LeafGreen and FireRed, the community setup a Pacifist run whereas you are unable to deal direct damage. Indirect damage (burn, poison, spikes, etc) are acceptable methods to win a Pokémon battle. 
+For example, Pokémon LeafGreen and FireRed, the community setup a Pacifist run whereas you are unable to deal direct damage. Indirect damage (burn, poison, spikes, etc) are acceptable methods to win a Pokémon battle. The idea is that you are defending yourself, but ultimately it's the attacker's fault for pushing too far and fainting by not taking the hint/warning. 
 
 
 
