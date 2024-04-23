@@ -1,0 +1,19 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "New World Pacifist"
+logo = "img/rafa.webp"
+description = "A Pacifist player playing in this new world."
+copyright = "© 2021-2024 Mala Zedik. All Right Reserved."
+
+dateFormat = "January 2, 2006"
+
+[author]
+  name = "New World Pacifist"
+  image = "img/mala_zedik.webp"
+  headline = "A place to find information about Pacifist games!"
+  bio = "When you don't have to fight to win."

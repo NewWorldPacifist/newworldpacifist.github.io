@@ -1,0 +1,10 @@
+{
+    "name": "Mala Zedik",
+    "image" : "img/mala_author.webp",
+    "bio": "Your avid gamer who loves a good challenge.",
+    "social": [
+        { "twitter": "https://twitter.com/MalaZedik" },
+        { "youtube": "https://youtube.com/MalaZedik" },
+        { "twitch": "https://reddit.com/user/MalaZedik" }
+    ]
+}
